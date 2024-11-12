@@ -1,5 +1,7 @@
 /.bsp/
 /.idea/
 /target/
-/project/target/
-/project/project/
+/project*/
+/.bloop/
+/.metals/
+/.vscode/
