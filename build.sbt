@@ -2,7 +2,7 @@ name := "EffectOrientedProgramming"
 
 scalaVersion := "3.5.2"
 
-val zioVersion = "2.1.12"
+val zioVersion = "2.1.13"
 
 libraryDependencies ++= Seq(
   "dev.zio" %% "zio" % zioVersion,
