@@ -1,6 +1,6 @@
 name := "EffectOrientedProgramming"
 
-scalaVersion := "3.6.2"
+scalaVersion := "3.6.3"
 
 val zioVersion = "2.1.14"
 
