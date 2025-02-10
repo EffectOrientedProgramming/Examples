@@ -7,6 +7,8 @@ There are two ways to run these examples:
 ## In the Cloud
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/EffectOrientedProgramming/examples)  
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/EffectOrientedProgramming/examples)
+
 *Note: It takes a few minutes for the environment to set itself up.*
 
 ## On Your Local Machine
